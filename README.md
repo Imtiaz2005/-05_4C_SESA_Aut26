@@ -4,24 +4,35 @@
 
 ---
 
+## 👥 Team Members
+
+| Student ID | Name | Section |
+| :--- | :--- | :---: |
+| `4325105101108` | Syed Imtiaz Masud[cite: 1] | 4C1[cite: 1] |
+| `4325105101105` | Md Hasan[cite: 1] | 4C1[cite: 1] |
+| `4325105101064` | Imtiaz bin hasan[cite: 1] | 4C1[cite: 1] |
+| `4325105101091` | Baishakhi Afroje[cite: 1] | 4C1[cite: 1] |
+
+---
+
 ## ✨ Key Features by Role
 
 ### 🎓 For Students
-*   **Discover Contests:** Browse upcoming events with advanced filters (Category, Fee, Event Mode).
-*   **Auto-Generated Portfolio:** Automatically generates a professional portfolio based on verified contest achievements and placements.
-*   **Student Dashboard:** Track participation history, contest statistics, and upcoming events.
-*   **Save & Register:** Bookmark favorite contests and register with a single click.
+- **Discover Contests:** Browse upcoming events with advanced filters (Category, Fee, Event Mode).
+- **Auto-Generated Portfolio:** Automatically generates a professional portfolio based on verified contest achievements and placements.
+- **Student Dashboard:** Track participation history, contest statistics, and upcoming events.
+- **Save & Register:** Bookmark favorite contests and register with a single click.
 
 ### 🏢 For Organizers (Clubs, Universities, Organizations)
-*   **Contest Management:** Create, publish, and manage contests.
-*   **Public Profile:** Dedicated organization profiles displaying past and upcoming contests.
-*   **Result Publishing:** Officially verify and publish contest results (which directly updates student portfolios).
+- **Contest Management:** Create, publish, and manage contests.
+- **Public Profile:** Dedicated organization profiles displaying past and upcoming contests.
+- **Result Publishing:** Officially verify and publish contest results (which directly updates student portfolios).
 
 ### 🛡️ For Administrators
-*   **Platform Dashboard:** Monitor total users, active contests, and pending approvals.
-*   **Contest Review:** Approve or reject contests submitted by organizers.
-*   **User Management:** Suspend, activate, or permanently remove user accounts.
-*   **Organization Control:** Block or unblock organizations from posting new contests.
+- **Platform Dashboard:** Monitor total users, active contests, and pending approvals.
+- **Contest Review:** Approve or reject contests submitted by organizers.
+- **User Management:** Suspend, activate, or permanently remove user accounts.
+- **Organization Control:** Block or unblock organizations from posting new contests.
 
 ---
 
@@ -50,10 +61,10 @@ Complete control over users, organizations, and contest approvals.
 
 ## 🛠️ Technology Stack
 
-*   **Frontend:** React (Vite), Tailwind CSS, React Router DOM
-*   **Backend:** PHP (PDO), RESTful APIs
-*   **Database:** MySQL
-*   **Authentication:** Session-based Auth & Context API
+- **Frontend:** React (Vite), Tailwind CSS, React Router DOM
+- **Backend:** PHP (PDO), RESTful APIs
+- **Database:** MySQL
+- **Authentication:** Session-based Auth & Context API
 
 ---
 
