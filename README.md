@@ -8,10 +8,10 @@
 
 | Student ID | Name | Section |
 | :--- | :--- | :---: |
-| `4325105101108` | Syed Imtiaz Masud[cite: 1] | 4C1[cite: 1] |
-| `4325105101105` | Md Hasan[cite: 1] | 4C1[cite: 1] |
-| `4325105101064` | Imtiaz bin hasan[cite: 1] | 4C1[cite: 1] |
-| `4325105101091` | Baishakhi Afroje[cite: 1] | 4C1[cite: 1] |
+| `4325105101108` | Syed Imtiaz Masud | 4C1 |
+| `4325105101105` | Md Hasan | 4C1 |
+| `4325105101064` | Imtiaz bin hasan | 4C1 |
+| `4325105101091` | Baishakhi Afroje | 4C1 |
 
 ---
 
